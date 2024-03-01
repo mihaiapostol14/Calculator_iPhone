@@ -7,9 +7,9 @@
 >
 
 **ORIGINAL TEMPLATE**
-![image](image\calculator_maket.png)
+![image](./image/calculator_maket.png)
 
 
 **MY RESULT**
 
-![image](image\my_result.png)
+![image](./image/my_result.png)
